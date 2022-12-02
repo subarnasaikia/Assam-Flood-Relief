@@ -1,0 +1,19 @@
+{
+  "name": "alert-sms",
+  "version": "1.0.0",
+  "description": "Twilio alert SMS",
+  "main": "send_sms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subarnasaikia/Assam-Flood-Relief.git"
+  },
+  "author": "Subarna Saikia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subarnasaikia/Assam-Flood-Relief/issues"
+  },
+  "homepage": "https://github.com/subarnasaikia/Assam-Flood-Relief#readme"
+}
