@@ -42,12 +42,59 @@ body {
 /* Header */
 .header {
   background-color: #978c5b;
-  padding: 20%;
+  padding: 2%;
   text-align: center;
   font-size: medium;
+  border-radius: 2%;
+  
+}
+.header:hover {
+  background-color: #b2a97e;
+}
+
+.para {
+  background-color: rgb(166, 216, 216);
+  border: 50px;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  width: 33.33%;
+  height: 10%;
+  border-radius: 50px;
+  display: inline-block;
+  
+}
+.para p {
+  text-align: justify;
+  font-size: 150%;
+  font-family:Times, "Times New Roman", Georgia, serif;
+  text-align: justify;
+  text-indent: 20px;
+  line-height: normal;
   
 }
 
-.header h1 p {
-  color: rgb(173, 29, 29);
+.para:hover {
+  background-color: rgb(98, 177, 163);
+  border-radius: 100px;
+  
+}
+
+.para:hover p{
+    font-size: 200%;
+}
+
+#data {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 3%;
 }
