@@ -1,0 +1,36 @@
+body {
+    background-color: bisque;
+}
+
+.sos {
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid rgb(249, 235, 235);
+}
+ .sos h1 {
+    color: blueviolet;
+ }
+ .sos h3 {
+    color: brown;
+ }
+
+ .emergencytable {
+    text-align: center;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+ }
+
+ .emergencytable table {
+    width: 30%;
+    border: solid black;
+ }
+
+ .emergencytable table th {
+    background-color: #F2E5E5;
+ }

@@ -1,7 +1,8 @@
 
 body {
     background-color: rgb(200, 237, 237);
-}
+    font: 12px/14px sans-serif;
+  }
 
 /* Add a black background color to the top navigation */
 .topnav {
